@@ -5,6 +5,10 @@ Please overlook any bugs! Feel free to contribute
 
 GlitchLabs is a python app the allows you to corrupt audio and video files. It does this by editing Hex data!
 
+# EARAPE WARNING!!! 
+# This can seriouly mess up your files!
+*Always work on copies of your files!*
+
 ---
 
 # Installation:
@@ -27,6 +31,12 @@ chmod +x install.sh
 ```bash
 ./install.sh
 ```
+If you don’t want to install yet, you can run directly:
+
+```bash
+python3 GlitchLabs.py
+```
+
 ---
 
 # Screenshot:
