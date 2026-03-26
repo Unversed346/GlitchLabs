@@ -1,7 +1,7 @@
 # GlitchLabs
 <img width="100" height="100" alt="GlitchLabs" src="https://github.com/user-attachments/assets/2d8559ec-96cd-438d-b4bd-54c130db2f00" />
 
-Please overlook any bugs! Fell free to contribute
+Please overlook any bugs! Feel free to contribute
 
 GlitchLabs is a python app the allows you to corrupt audio and video files. It does this by editing Hex data!
 
